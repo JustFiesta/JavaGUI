@@ -1,5 +1,5 @@
 package com.example.javafx.Labs.no7;
-chuj
+
 import javafx.application.Application;
 import javafx.beans.property.ReadOnlyStringWrapper;
 import javafx.collections.FXCollections;
