@@ -8,4 +8,4 @@ Hibernate is configured manually (taken from example config).
 
 <hr>
 
-## Check idividual labs for further explanation
+## Check individual labs for further explanation
